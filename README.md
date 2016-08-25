@@ -7,3 +7,5 @@ just make ```glide install```near to a glide.yaml configuration definition file,
  - Glide : https://github.com/Masterminds/glide
  - Docker Golang : https://hub.docker.com/_/golang/
 
+You can pull it directly from the docker hub : 
+```docker pull arnaudgiuliani/golang-glide```
